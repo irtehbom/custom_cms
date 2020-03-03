@@ -1,0 +1,375 @@
+.fc-time-grid .fc-slats td {
+
+    height: 47px;
+}
+.fc-license-message {
+
+    display: none !important;
+
+}
+.website-details-restyle p {
+
+    line-height: 6px !important;
+
+}
+
+#edit-button-outreach:hover {
+    cursor:pointer;
+}
+
+.fas.fa-external-link-alt {
+
+    color: gray;
+    font-size: 13px;
+    margin-left: 10px;
+
+}
+
+.host-modal {
+
+    color: #0665d0;
+    display: inline;
+
+}
+
+.host-modal:hover {
+    cursor:pointer;
+    color: #03356d;
+
+}
+.black-link {
+
+    font-size: 15px;
+    color: black;
+    text-decoration: underline;
+
+}
+.btn-dual:not(:disabled):not(.disabled):active, .btn-dual:not(:disabled):not(.disabled).active, .show > .btn-dual.dropdown-toggle {
+
+    color: white !important;
+    background-color: #343a40!important;
+    border-color: none !important;
+
+}
+.nav-main-heading {
+
+    padding-top: 0px !important;
+}
+.time-table table {
+
+    table-layout: fixed;
+
+}
+.client-text {
+
+    background: #daedda;
+    padding: 1px 10px;
+    border-radius: 6px;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+.top-nav-single-link {
+
+    font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: white !important;
+    font-weight: 600 !important;
+    display: inline-block !important;
+    margin-right: 20px;
+    position: relative;
+    top: 2px;
+
+}
+
+.top-nav-single-link.active {
+
+    display: inline-block !important;
+    position: relative;
+    top: 2px;
+    background: white;
+    color: black !important;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+}
+
+.page-header-dark #page-header .btn-dual:not(:disabled):not(.disabled):active, .page-header-dark #page-header .btn-dual:not(:disabled):not(.disabled).active, .show > .page-header-dark #page-header .btn-dual.dropdown-toggle, .sidebar-dark #sidebar .btn-dual:not(:disabled):not(.disabled):active, .sidebar-dark #sidebar .btn-dual:not(:disabled):not(.disabled).active, .show > .sidebar-dark #sidebar .btn-dual.dropdown-toggle {
+
+    color: #000!important;
+    background-color: #fff!important;
+    border-color: #1d2124!important;
+    border-radius: 6px !important;
+
+}
+.qa_citations_left {
+
+    width: 50%;
+
+}
+.website-details-restyle {
+
+    display: table;
+    width: 100%;
+    margin: 10px 0px;
+
+}
+.overview-inline {
+
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.website-details {
+
+    background: #5f5f5f !important;
+    padding: 5px;
+    color: white;
+    font-size: 13px;
+    margin-bottom: 5px;
+
+}
+.circle-profile-small {
+
+    height: 40px;
+    background: orange;
+    text-align: center;
+    border-radius: 100%;
+    width: 40px;
+    color: white;
+    float: left;
+
+}
+.overview-username {
+
+    display: inline;
+    position: relative;
+    top: 10px;
+    margin-left: 10px;
+
+}
+.profile-center-small {
+
+    position: relative;
+    top: 5px;
+    font-size: 20px;
+
+}
+.content-heading-grey {
+
+    font-size: 20px;
+    background: #EFEFEF;
+    padding: 10px;
+    border-bottom: 2px solid orange;
+
+}
+.circle-profile {
+
+    height: 80px;
+    background: orange;
+    text-align: center;
+    border-radius: 100%;
+    width: 80px;
+    margin-left: 18px;
+    color: white;
+
+}
+
+.profile-center {
+
+    position: relative;
+    top: 20px;
+    font-size: 26px;
+
+}
+.primary-user {
+    background: #82b54b;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.multiselect-native-select .btn-group {
+
+    width: 100%;
+
+}
+.multiselect.dropdown-toggle.btn.btn-default {
+    width: 100%!important;
+    text-align: left !important;
+
+}
+.multiselect-container > li > a > label {
+
+    padding: 0px!important;
+    margin-bottom: 10px !important;
+    width: 100% !important;
+
+}
+.edit-message-inline {
+
+    float: right;
+
+}
+.add-more-files.col-sm-1 {
+
+    margin-top: 30px;
+
+}
+.fa.fa-edit.edit-message {
+    font-size: 22px;
+    cursor:pointer;
+}
+.attachment-image .fa.fa-file {
+    font-size: 70px;
+    color: grey;
+}
+.attachment-file {
+
+    display: inline-block;
+    margin-right: 15px;
+
+}
+#clickable {
+    height: 100px;
+    width: 100%;
+    background: black;
+}
+#myDrop {
+    cursor:pointer;
+    padding: 20px;
+    border: 2px dashed black;
+
+}
+#dropzone {
+
+    background: white;
+    border-radius: 5px;
+    border: 2px dashed rgb(0, 135, 247);
+        border-image-outset: 0;
+        border-image-repeat: stretch;
+        border-image-slice: 100%;
+        border-image-source: none;
+        border-image-width: 1;
+    border-image: none;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 50px;
+
+}
+
+.content-header {
+    border-bottom: 5px solid orange;
+}
+.logo-main {
+    width: 95%;
+    height: 50px;
+}
+.text-white {
+    color:white;
+}
+.progress-move {
+    top: 4px!important;
+    width: 45px !important;
+    left: 32%!important;
+    right: 50%!important;
+    width:45px !important;
+    font-weight:bold;
+}
+
+
+.progress-resize {
+    height: 26px !important;
+}
+.table-coloured {
+    border-bottom: 1px solid orange;
+}
+.error {
+    color: red;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.spacer {
+    width: 100%;
+    height: 15px;
+}
+
+.notification-top {
+
+    background: #505050;
+    color: white;
+
+}
+
+#page-container.side-scroll #side-overlay .content-header, #page-container.side-scroll #side-overlay .content-side {
+
+    width: 100% !important;
+
+}
+
+.font-size-h2 {
+
+    font-size: 20px !important;
+
+}
+
+.fc-time-grid-event.fc-event.fc-start.fc-end.fc-draggable.fc-resizable {
+    width: 102%;
+}
+
+.fc-time-grid-event {
+
+    color: white !important;
+
+}
+.fc-event .fc-title {
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+    float:left;
+}
+
+.fc-event .fc-time {
+
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#fc-task {
+
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.modal-dialog {
+    max-width: 900px;
+}
+
+.fc-event {
+    border: 1px solid #7b7b7b;
+}
+
+.fc-event, .fc-event-dot {
+    background-color: #6c6c6c;
+}
+
+#fc-notes {
+
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+
+}
